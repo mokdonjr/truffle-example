@@ -11,3 +11,6 @@ truffle compile : /build 디렉터리에 결과 생성
 
 ### 컴파일된 스마트 컨트랙트 배포
 truffle migration
+
+### 스마트 컨트랙트 테스트
+truffle test
